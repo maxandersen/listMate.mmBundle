@@ -1,0 +1,8 @@
+{
+	isDisabled    = 0;
+	name          = 'Show Archive';
+	uuid          = '7BFBE661-5E0E-43C3-945F-0E7D0DB80B88';
+	select	      = "List-Archive exists";
+	environment   = 'MM_LIST_INFO=${List-Archive}\n';
+	command       = '#!/bin/bash\n"${MM_BUNDLE_SUPPORT}/bin/showinfo"\n';
+}

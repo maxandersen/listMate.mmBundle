@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>znk.naqrefra@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Max Rydahl Andersen</string>
+	<key>description</key>
+	<string>Command to interact with Mailing lists</string>
+	<key>name</key>
+	<string>ListMate</string>
+	<key>uuid</key>
+	<string>68B2D8A4-B019-4E68-B02B-2BDE68556E50</string>
+</dict>
+</plist>

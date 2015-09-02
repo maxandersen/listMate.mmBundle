@@ -1,0 +1,12 @@
+#!/usr/bin/ruby -w
+# encoding: UTF-8
+
+require "uri"
+uris = URI.extract(ENV['MM_LIST_INFO'])
+
+uris.each do |url|
+    if url.start_with?('http')
+       cmd = "open " + url
+       system(cmd)
+    end
+end
