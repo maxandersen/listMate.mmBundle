@@ -1,5 +1,7 @@
 # ListMate - a bundle for working with mailman based mailing lists
 
+Note: replaced by https://github.com/maxandersen/MailMan.mmBundle
+
 With this bundle you can easily view the archives, see list info and Unsubscribe from any mail you received from a mailing list. 
 
 
